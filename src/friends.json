@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "image": "./img/edwardEin.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "./img/Ein.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "./img/friend.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "./img/gunfaye.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "./img/gunspike.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "./img/JetBlack.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "./img/jetblackGun.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "./img/Judy.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "./img/julie.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "./img/smoke.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "./img/tv.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "./img/vicious.jpg",
+    "clicked": false
+  }
+]
+
+
+
